@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-image: url(./new\ pink\ rose2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left{
+    border: 2px solid red;
+
+}
+.mid{
+
+    border: 2px solid rgb(25, 214, 120);
+}
+.right{
+
+    border: 2px solid rgb(112, 33, 102);
+}
